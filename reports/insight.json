@@ -1,0 +1,32 @@
+[
+  {
+    "campaign": "Womens_Underwear_US",
+    "hypothesis": "CTR drop likely due to creative fatigue or weak hook.",
+    "evidence": {
+      "recent_ctr": 0.018,
+      "prior_ctr": 0.029,
+      "pct_change": -37.93103448275862
+    },
+    "confidence": 0.7
+  },
+  {
+    "campaign": "Mens_Boxers_Retargeting",
+    "hypothesis": "CTR drop likely due to creative fatigue or weak hook.",
+    "evidence": {
+      "recent_ctr": 0.011,
+      "prior_ctr": 0.014,
+      "pct_change": -21.428571428571427
+    },
+    "confidence": 0.7
+  },
+  {
+    "campaign": "Teens_ComfortLine",
+    "hypothesis": "CTR drop likely due to creative fatigue or weak hook.",
+    "evidence": {
+      "recent_ctr": 0.009,
+      "prior_ctr": 0.012,
+      "pct_change": -25.0
+    },
+    "confidence": 0.7
+  }
+]

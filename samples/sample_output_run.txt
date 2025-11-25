@@ -1,0 +1,31 @@
+User Query: "Analyze ROAS drop"
+
+[1] Planner Agent → Created structured plan:
+    - Windows: 30d recent, 30d prior
+    - Threshold: bottom 15% CTR
+    - Steps: data_summary → insights → evaluation → creatives
+
+[2] Data Agent → Loaded dataset:
+    - 3 campaigns identified as low CTR
+    - Recent CTR range: 0.009 – 0.018
+    - ROAS drop detected in 2 campaigns
+
+[3] Insight Agent → Generated hypotheses:
+    - Creative fatigue
+    - Hook weakness
+    - Audience mismatch possibilities
+
+[4] Evaluator Agent → Validated:
+    - 3 hypotheses supported
+    - Confidence 0.7 (bootstrap estimate)
+
+[5] Creative Agent → Generated 15 creatives:
+    - Emotional / urgency / value-driven variants
+    - CTR expected lift: +10–18%
+
+✔ Reports generated:
+   reports/insights.json
+   reports/creatives.json
+   reports/report.md
+
+✔ Logs saved to logs/<run_id>/

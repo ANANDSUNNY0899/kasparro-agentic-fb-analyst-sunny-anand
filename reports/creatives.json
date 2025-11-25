@@ -1,0 +1,122 @@
+[
+  {
+    "campaign": "Womens_Underwear_US",
+    "baseline_ctr": 0.018,
+    "variants": [
+      {
+        "headline": "New Womens_Underwear_US Offer — Save 10%",
+        "description": "Comfortable • Premium fabric • Limited stock",
+        "cta": "Claim Discount",
+        "expected_lift": "+10–18% CTR"
+      },
+      {
+        "headline": "New Womens_Underwear_US Offer — Save 15%",
+        "description": "Comfortable • Premium fabric • Limited stock",
+        "cta": "Grab Deal",
+        "expected_lift": "+10–18% CTR"
+      },
+      {
+        "headline": "New Womens_Underwear_US Offer — Save 20%",
+        "description": "Comfortable • Premium fabric • Limited stock",
+        "cta": "Shop Now",
+        "expected_lift": "+10–18% CTR"
+      },
+      {
+        "headline": "New Womens_Underwear_US Offer — Save 25%",
+        "description": "Comfortable • Premium fabric • Limited stock",
+        "cta": "Claim Discount",
+        "expected_lift": "+10–18% CTR"
+      },
+      {
+        "headline": "New Womens_Underwear_US Offer — Save 30%",
+        "description": "Comfortable • Premium fabric • Limited stock",
+        "cta": "Grab Deal",
+        "expected_lift": "+10–18% CTR"
+      }
+    ],
+    "ab_plan": {
+      "metric": "CTR",
+      "min_sample": 2000
+    }
+  },
+  {
+    "campaign": "Mens_Boxers_Retargeting",
+    "baseline_ctr": 0.011,
+    "variants": [
+      {
+        "headline": "New Mens_Boxers_Retargeting Offer — Save 10%",
+        "description": "Comfortable • Premium fabric • Limited stock",
+        "cta": "Shop Now",
+        "expected_lift": "+10–18% CTR"
+      },
+      {
+        "headline": "New Mens_Boxers_Retargeting Offer — Save 15%",
+        "description": "Comfortable • Premium fabric • Limited stock",
+        "cta": "Grab Deal",
+        "expected_lift": "+10–18% CTR"
+      },
+      {
+        "headline": "New Mens_Boxers_Retargeting Offer — Save 20%",
+        "description": "Comfortable • Premium fabric • Limited stock",
+        "cta": "Claim Discount",
+        "expected_lift": "+10–18% CTR"
+      },
+      {
+        "headline": "New Mens_Boxers_Retargeting Offer — Save 25%",
+        "description": "Comfortable • Premium fabric • Limited stock",
+        "cta": "Shop Now",
+        "expected_lift": "+10–18% CTR"
+      },
+      {
+        "headline": "New Mens_Boxers_Retargeting Offer — Save 30%",
+        "description": "Comfortable • Premium fabric • Limited stock",
+        "cta": "Grab Deal",
+        "expected_lift": "+10–18% CTR"
+      }
+    ],
+    "ab_plan": {
+      "metric": "CTR",
+      "min_sample": 2000
+    }
+  },
+  {
+    "campaign": "Teens_ComfortLine",
+    "baseline_ctr": 0.009,
+    "variants": [
+      {
+        "headline": "New Teens_ComfortLine Offer — Save 10%",
+        "description": "Comfortable • Premium fabric • Limited stock",
+        "cta": "Grab Deal",
+        "expected_lift": "+10–18% CTR"
+      },
+      {
+        "headline": "New Teens_ComfortLine Offer — Save 15%",
+        "description": "Comfortable • Premium fabric • Limited stock",
+        "cta": "Claim Discount",
+        "expected_lift": "+10–18% CTR"
+      },
+      {
+        "headline": "New Teens_ComfortLine Offer — Save 20%",
+        "description": "Comfortable • Premium fabric • Limited stock",
+        "cta": "Shop Now",
+        "expected_lift": "+10–18% CTR"
+      },
+      {
+        "headline": "New Teens_ComfortLine Offer — Save 25%",
+        "description": "Comfortable • Premium fabric • Limited stock",
+        "cta": "Grab Deal",
+        "expected_lift": "+10–18% CTR"
+      },
+      {
+        "headline": "New Teens_ComfortLine Offer — Save 30%",
+        "description": "Comfortable • Premium fabric • Limited stock",
+        "cta": "Claim Discount",
+        "expected_lift": "+10–18% CTR"
+      }
+    ],
+    "ab_plan": {
+      "metric": "CTR",
+      "min_sample": 2000
+    }
+  }
+]
