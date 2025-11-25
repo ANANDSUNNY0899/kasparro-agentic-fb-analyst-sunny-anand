@@ -1,4 +1,4 @@
-🚀 Kasparro Agentic Facebook Performance Analyst
+Kasparro Agentic Facebook Performance Analyst
 
 A fully autonomous multi-agent system that analyzes Facebook Ads performance, explains ROAS/CTR fluctuations, and generates new high-performing creative ideas — all using a structured, explainable, agent-driven pipeline.
 
@@ -19,43 +19,23 @@ Human-readable marketer reports
 
 
 
-🧠 Why This Project Exists
+# Why This Project Exists
 
-Modern marketing teams struggle with:
+ Modern marketing teams struggle with:
 
-❌ Unclear why ROAS dropped
-❌ Too many campaigns to manually evaluate
-❌ Creative fatigue not detected early
-❌ No structured explanation or direction
-❌ No system that both analyzes data and generates creative fixes
+  Unclear why ROAS dropped
+  Too many campaigns to manually evaluate
+  Creative fatigue not detected early
+  No structured explanation or direction
+  No system that both analyzes data and generates creative fixes
 
 This project solves these by using a multi-agent AI system that thinks, analyzes, validates, and creates — all on its own.
 
 
 # System Architecture
 
-User Query  →  Planner Agent
-                  │
-                  ▼
-            Data Agent
-      (summaries, trends, CTR/ROAS)
-                  │
-                  ▼
-           Insight Agent
-      (hypothesis generation)
-                  │
-                  ▼
-          Evaluator Agent
- (quantitative validation + evidence)
-                  │
-                  ▼
-    Creative Improvement Agent
- (new creatives + CTAs + A/B plan)
-                  │
-                  ▼
-            Final Report
-
-
+ User Query  -→  Planner Agent  --> Data Agent (summaries, trends, CTR/ROAS) -->  Insight Agent (hypothesis generation) --> Evaluator Agent (quantitative validation + evidence) --> Creative Improvement Agent (new creatives + CTAs + A/B plan) -->  Final Report
+             
 Each agent has one job, making the system easy to reason about, debug, and extend.
 
 # Features
