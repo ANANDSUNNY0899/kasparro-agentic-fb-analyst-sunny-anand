@@ -1,0 +1,814 @@
+{
+  "recommendations": [
+    {
+      "campaign": "M N Bold Colors Drop",
+      "baseline_ctr": 0.007626175852966539,
+      "keywords": [
+        "seamless",
+        "confidence",
+        "every",
+        "day",
+        "new",
+        "men"
+      ],
+      "variants": [
+        {
+          "headline": "Seamless — All-day comfort",
+          "description": "Seamless Confidence Every Day • Free returns",
+          "cta": "Experience Comfort",
+          "rationale": "Tone=Emotional; anchored to keywords ['seamless', 'confidence', 'every']",
+          "expected_impact": "+10%"
+        },
+        {
+          "headline": "Confidence — Limited time — restock",
+          "description": "Seamless Confidence Every Day • Free returns",
+          "cta": "Shop Now",
+          "rationale": "Tone=Urgency; anchored to keywords ['seamless', 'confidence', 'every']",
+          "expected_impact": "+15%"
+        },
+        {
+          "headline": "Every — Premium comfort at great price",
+          "description": "Seamless Confidence Every Day • Free returns",
+          "cta": "Upgrade Today",
+          "rationale": "Tone=Value; anchored to keywords ['seamless', 'confidence', 'every']",
+          "expected_impact": "+9%"
+        },
+        {
+          "headline": "Day — Fix your fit today",
+          "description": "Seamless Confidence Every Day • Free returns",
+          "cta": "Fix My Fit",
+          "rationale": "Tone=Problem→Solution; anchored to keywords ['seamless', 'confidence', 'every']",
+          "expected_impact": "+18%"
+        },
+        {
+          "headline": "New — Loved by thousands",
+          "description": "Seamless Confidence Every Day • Free returns",
+          "cta": "See Why",
+          "rationale": "Tone=SocialProof; anchored to keywords ['seamless', 'confidence', 'every']",
+          "expected_impact": "+12%"
+        }
+      ],
+      "ab_test_plan": {
+        "metric": "CTR",
+        "min_sample_per_variant": 15192,
+        "duration_days": 7
+      }
+    },
+    {
+      "campaign": "Men Bol Colors Drop",
+      "baseline_ctr": 0.007057433649456638,
+      "keywords": [
+        "men",
+        "ride",
+        "guarantee",
+        "best",
+        "selling",
+        "briefs"
+      ],
+      "variants": [
+        {
+          "headline": "Men — All-day comfort",
+          "description": "Men Ride Guarantee Best • Free returns",
+          "cta": "Experience Comfort",
+          "rationale": "Tone=Emotional; anchored to keywords ['men', 'ride', 'guarantee']",
+          "expected_impact": "+10%"
+        },
+        {
+          "headline": "Ride — Limited time — restock",
+          "description": "Men Ride Guarantee Best • Free returns",
+          "cta": "Shop Now",
+          "rationale": "Tone=Urgency; anchored to keywords ['men', 'ride', 'guarantee']",
+          "expected_impact": "+15%"
+        },
+        {
+          "headline": "Guarantee — Premium comfort at great price",
+          "description": "Men Ride Guarantee Best • Free returns",
+          "cta": "Upgrade Today",
+          "rationale": "Tone=Value; anchored to keywords ['men', 'ride', 'guarantee']",
+          "expected_impact": "+9%"
+        },
+        {
+          "headline": "Best — Fix your fit today",
+          "description": "Men Ride Guarantee Best • Free returns",
+          "cta": "Fix My Fit",
+          "rationale": "Tone=Problem→Solution; anchored to keywords ['men', 'ride', 'guarantee']",
+          "expected_impact": "+18%"
+        },
+        {
+          "headline": "Selling — Loved by thousands",
+          "description": "Men Ride Guarantee Best • Free returns",
+          "cta": "See Why",
+          "rationale": "Tone=SocialProof; anchored to keywords ['men', 'ride', 'guarantee']",
+          "expected_impact": "+12%"
+        }
+      ],
+      "ab_test_plan": {
+        "metric": "CTR",
+        "min_sample_per_variant": 20856,
+        "duration_days": 7
+      }
+    },
+    {
+      "campaign": "Men Bold Col Rs Drop",
+      "baseline_ctr": 0.00688723846780772,
+      "keywords": [
+        "men",
+        "boxers",
+        "breathable",
+        "microfiber",
+        "moves",
+        "limited"
+      ],
+      "variants": [
+        {
+          "headline": "Men — All-day comfort",
+          "description": "Men Boxers Breathable Microfiber • Free returns",
+          "cta": "Experience Comfort",
+          "rationale": "Tone=Emotional; anchored to keywords ['men', 'boxers', 'breathable']",
+          "expected_impact": "+10%"
+        },
+        {
+          "headline": "Boxers — Limited time — restock",
+          "description": "Men Boxers Breathable Microfiber • Free returns",
+          "cta": "Shop Now",
+          "rationale": "Tone=Urgency; anchored to keywords ['men', 'boxers', 'breathable']",
+          "expected_impact": "+15%"
+        },
+        {
+          "headline": "Breathable — Premium comfort at great price",
+          "description": "Men Boxers Breathable Microfiber • Free returns",
+          "cta": "Upgrade Today",
+          "rationale": "Tone=Value; anchored to keywords ['men', 'boxers', 'breathable']",
+          "expected_impact": "+9%"
+        },
+        {
+          "headline": "Microfiber — Fix your fit today",
+          "description": "Men Boxers Breathable Microfiber • Free returns",
+          "cta": "Fix My Fit",
+          "rationale": "Tone=Problem→Solution; anchored to keywords ['men', 'boxers', 'breathable']",
+          "expected_impact": "+18%"
+        },
+        {
+          "headline": "Moves — Loved by thousands",
+          "description": "Men Boxers Breathable Microfiber • Free returns",
+          "cta": "See Why",
+          "rationale": "Tone=SocialProof; anchored to keywords ['men', 'boxers', 'breathable']",
+          "expected_impact": "+12%"
+        }
+      ],
+      "ab_test_plan": {
+        "metric": "CTR",
+        "min_sample_per_variant": 26705,
+        "duration_days": 7
+      }
+    },
+    {
+      "campaign": "Men Comfortmax Lau Ch",
+      "baseline_ctr": 0.00847681900130667,
+      "keywords": [
+        "men",
+        "inner",
+        "vests",
+        "soft",
+        "confidence",
+        "starts"
+      ],
+      "variants": [
+        {
+          "headline": "Men — All-day comfort",
+          "description": "Men Inner Vests Soft • Free returns",
+          "cta": "Experience Comfort",
+          "rationale": "Tone=Emotional; anchored to keywords ['men', 'inner', 'vests']",
+          "expected_impact": "+10%"
+        },
+        {
+          "headline": "Inner — Limited time — restock",
+          "description": "Men Inner Vests Soft • Free returns",
+          "cta": "Shop Now",
+          "rationale": "Tone=Urgency; anchored to keywords ['men', 'inner', 'vests']",
+          "expected_impact": "+15%"
+        },
+        {
+          "headline": "Vests — Premium comfort at great price",
+          "description": "Men Inner Vests Soft • Free returns",
+          "cta": "Upgrade Today",
+          "rationale": "Tone=Value; anchored to keywords ['men', 'inner', 'vests']",
+          "expected_impact": "+9%"
+        },
+        {
+          "headline": "Soft — Fix your fit today",
+          "description": "Men Inner Vests Soft • Free returns",
+          "cta": "Fix My Fit",
+          "rationale": "Tone=Problem→Solution; anchored to keywords ['men', 'inner', 'vests']",
+          "expected_impact": "+18%"
+        },
+        {
+          "headline": "Confidence — Loved by thousands",
+          "description": "Men Inner Vests Soft • Free returns",
+          "cta": "See Why",
+          "rationale": "Tone=SocialProof; anchored to keywords ['men', 'inner', 'vests']",
+          "expected_impact": "+12%"
+        }
+      ],
+      "ab_test_plan": {
+        "metric": "CTR",
+        "min_sample_per_variant": 6046,
+        "duration_days": 7
+      }
+    },
+    {
+      "campaign": "Men Premiu Modal",
+      "baseline_ctr": 0.0,
+      "keywords": [
+        "hot",
+        "comfy",
+        "men",
+        "trunks",
+        "off",
+        "feel"
+      ],
+      "variants": [
+        {
+          "headline": "Hot — All-day comfort",
+          "description": "Hot Comfy Men Trunks • Free returns",
+          "cta": "Experience Comfort",
+          "rationale": "Tone=Emotional; anchored to keywords ['hot', 'comfy', 'men']",
+          "expected_impact": "+10%"
+        },
+        {
+          "headline": "Comfy — Limited time — restock",
+          "description": "Hot Comfy Men Trunks • Free returns",
+          "cta": "Shop Now",
+          "rationale": "Tone=Urgency; anchored to keywords ['hot', 'comfy', 'men']",
+          "expected_impact": "+15%"
+        },
+        {
+          "headline": "Men — Premium comfort at great price",
+          "description": "Hot Comfy Men Trunks • Free returns",
+          "cta": "Upgrade Today",
+          "rationale": "Tone=Value; anchored to keywords ['hot', 'comfy', 'men']",
+          "expected_impact": "+9%"
+        },
+        {
+          "headline": "Trunks — Fix your fit today",
+          "description": "Hot Comfy Men Trunks • Free returns",
+          "cta": "Fix My Fit",
+          "rationale": "Tone=Problem→Solution; anchored to keywords ['hot', 'comfy', 'men']",
+          "expected_impact": "+18%"
+        },
+        {
+          "headline": "Off — Loved by thousands",
+          "description": "Hot Comfy Men Trunks • Free returns",
+          "cta": "See Why",
+          "rationale": "Tone=SocialProof; anchored to keywords ['hot', 'comfy', 'men']",
+          "expected_impact": "+12%"
+        }
+      ],
+      "ab_test_plan": {
+        "metric": "CTR",
+        "min_sample_per_variant": 11105,
+        "duration_days": 7
+      }
+    },
+    {
+      "campaign": "Men Premium Mod L",
+      "baseline_ctr": 0.005705687810982332,
+      "keywords": [
+        "men",
+        "wire",
+        "free",
+        "ease",
+        "cloud",
+        "soft"
+      ],
+      "variants": [
+        {
+          "headline": "Men — All-day comfort",
+          "description": "Men Wire Free Ease • Free returns",
+          "cta": "Experience Comfort",
+          "rationale": "Tone=Emotional; anchored to keywords ['men', 'wire', 'free']",
+          "expected_impact": "+10%"
+        },
+        {
+          "headline": "Wire — Limited time — restock",
+          "description": "Men Wire Free Ease • Free returns",
+          "cta": "Shop Now",
+          "rationale": "Tone=Urgency; anchored to keywords ['men', 'wire', 'free']",
+          "expected_impact": "+15%"
+        },
+        {
+          "headline": "Free — Premium comfort at great price",
+          "description": "Men Wire Free Ease • Free returns",
+          "cta": "Upgrade Today",
+          "rationale": "Tone=Value; anchored to keywords ['men', 'wire', 'free']",
+          "expected_impact": "+9%"
+        },
+        {
+          "headline": "Ease — Fix your fit today",
+          "description": "Men Wire Free Ease • Free returns",
+          "cta": "Fix My Fit",
+          "rationale": "Tone=Problem→Solution; anchored to keywords ['men', 'wire', 'free']",
+          "expected_impact": "+18%"
+        },
+        {
+          "headline": "Cloud — Loved by thousands",
+          "description": "Men Wire Free Ease • Free returns",
+          "cta": "See Why",
+          "rationale": "Tone=SocialProof; anchored to keywords ['men', 'wire', 'free']",
+          "expected_impact": "+12%"
+        }
+      ],
+      "ab_test_plan": {
+        "metric": "CTR",
+        "min_sample_per_variant": 3357,
+        "duration_days": 7
+      }
+    },
+    {
+      "campaign": "Men Premium Odal",
+      "baseline_ctr": 0.00655330159562324,
+      "keywords": [
+        "men",
+        "invisible",
+        "under",
+        "tees",
+        "seamless",
+        "inner"
+      ],
+      "variants": [
+        {
+          "headline": "Men — All-day comfort",
+          "description": "Men Invisible Under Tees • Free returns",
+          "cta": "Experience Comfort",
+          "rationale": "Tone=Emotional; anchored to keywords ['men', 'invisible', 'under']",
+          "expected_impact": "+10%"
+        },
+        {
+          "headline": "Invisible — Limited time — restock",
+          "description": "Men Invisible Under Tees • Free returns",
+          "cta": "Shop Now",
+          "rationale": "Tone=Urgency; anchored to keywords ['men', 'invisible', 'under']",
+          "expected_impact": "+15%"
+        },
+        {
+          "headline": "Under — Premium comfort at great price",
+          "description": "Men Invisible Under Tees • Free returns",
+          "cta": "Upgrade Today",
+          "rationale": "Tone=Value; anchored to keywords ['men', 'invisible', 'under']",
+          "expected_impact": "+9%"
+        },
+        {
+          "headline": "Tees — Fix your fit today",
+          "description": "Men Invisible Under Tees • Free returns",
+          "cta": "Fix My Fit",
+          "rationale": "Tone=Problem→Solution; anchored to keywords ['men', 'invisible', 'under']",
+          "expected_impact": "+18%"
+        },
+        {
+          "headline": "Seamless — Loved by thousands",
+          "description": "Men Invisible Under Tees • Free returns",
+          "cta": "See Why",
+          "rationale": "Tone=SocialProof; anchored to keywords ['men', 'invisible', 'under']",
+          "expected_impact": "+12%"
+        }
+      ],
+      "ab_test_plan": {
+        "metric": "CTR",
+        "min_sample_per_variant": 5914,
+        "duration_days": 7
+      }
+    },
+    {
+      "campaign": "W Men Summer Invisible",
+      "baseline_ctr": 0.008323810225974122,
+      "keywords": [
+        "ride",
+        "guarantee",
+        "best",
+        "selling",
+        "women",
+        "bras"
+      ],
+      "variants": [
+        {
+          "headline": "Ride — All-day comfort",
+          "description": "Ride Guarantee Best Selling • Free returns",
+          "cta": "Experience Comfort",
+          "rationale": "Tone=Emotional; anchored to keywords ['ride', 'guarantee', 'best']",
+          "expected_impact": "+10%"
+        },
+        {
+          "headline": "Guarantee — Limited time — restock",
+          "description": "Ride Guarantee Best Selling • Free returns",
+          "cta": "Shop Now",
+          "rationale": "Tone=Urgency; anchored to keywords ['ride', 'guarantee', 'best']",
+          "expected_impact": "+15%"
+        },
+        {
+          "headline": "Best — Premium comfort at great price",
+          "description": "Ride Guarantee Best Selling • Free returns",
+          "cta": "Upgrade Today",
+          "rationale": "Tone=Value; anchored to keywords ['ride', 'guarantee', 'best']",
+          "expected_impact": "+9%"
+        },
+        {
+          "headline": "Selling — Fix your fit today",
+          "description": "Ride Guarantee Best Selling • Free returns",
+          "cta": "Fix My Fit",
+          "rationale": "Tone=Problem→Solution; anchored to keywords ['ride', 'guarantee', 'best']",
+          "expected_impact": "+18%"
+        },
+        {
+          "headline": "Women — Loved by thousands",
+          "description": "Ride Guarantee Best Selling • Free returns",
+          "cta": "See Why",
+          "rationale": "Tone=SocialProof; anchored to keywords ['ride', 'guarantee', 'best']",
+          "expected_impact": "+12%"
+        }
+      ],
+      "ab_test_plan": {
+        "metric": "CTR",
+        "min_sample_per_variant": 13564,
+        "duration_days": 7
+      }
+    },
+    {
+      "campaign": "Woen Cotton Classics",
+      "baseline_ctr": 0.005438850577767148,
+      "keywords": [
+        "breathable",
+        "microfiber",
+        "moves",
+        "limited",
+        "offer",
+        "women"
+      ],
+      "variants": [
+        {
+          "headline": "Breathable — All-day comfort",
+          "description": "Breathable Microfiber Moves Limited • Free returns",
+          "cta": "Experience Comfort",
+          "rationale": "Tone=Emotional; anchored to keywords ['breathable', 'microfiber', 'moves']",
+          "expected_impact": "+10%"
+        },
+        {
+          "headline": "Microfiber — Limited time — restock",
+          "description": "Breathable Microfiber Moves Limited • Free returns",
+          "cta": "Shop Now",
+          "rationale": "Tone=Urgency; anchored to keywords ['breathable', 'microfiber', 'moves']",
+          "expected_impact": "+15%"
+        },
+        {
+          "headline": "Moves — Premium comfort at great price",
+          "description": "Breathable Microfiber Moves Limited • Free returns",
+          "cta": "Upgrade Today",
+          "rationale": "Tone=Value; anchored to keywords ['breathable', 'microfiber', 'moves']",
+          "expected_impact": "+9%"
+        },
+        {
+          "headline": "Limited — Fix your fit today",
+          "description": "Breathable Microfiber Moves Limited • Free returns",
+          "cta": "Fix My Fit",
+          "rationale": "Tone=Problem→Solution; anchored to keywords ['breathable', 'microfiber', 'moves']",
+          "expected_impact": "+18%"
+        },
+        {
+          "headline": "Offer — Loved by thousands",
+          "description": "Breathable Microfiber Moves Limited • Free returns",
+          "cta": "See Why",
+          "rationale": "Tone=SocialProof; anchored to keywords ['breathable', 'microfiber', 'moves']",
+          "expected_impact": "+12%"
+        }
+      ],
+      "ab_test_plan": {
+        "metric": "CTR",
+        "min_sample_per_variant": 11290,
+        "duration_days": 7
+      }
+    },
+    {
+      "campaign": "Women Fit & Li T",
+      "baseline_ctr": 0.007790195432799396,
+      "keywords": [
+        "doctors",
+        "recommend",
+        "breathable",
+        "cotton",
+        "meet",
+        "women"
+      ],
+      "variants": [
+        {
+          "headline": "Doctors — All-day comfort",
+          "description": "Doctors Recommend Breathable Cotton • Free returns",
+          "cta": "Experience Comfort",
+          "rationale": "Tone=Emotional; anchored to keywords ['doctors', 'recommend', 'breathable']",
+          "expected_impact": "+10%"
+        },
+        {
+          "headline": "Recommend — Limited time — restock",
+          "description": "Doctors Recommend Breathable Cotton • Free returns",
+          "cta": "Shop Now",
+          "rationale": "Tone=Urgency; anchored to keywords ['doctors', 'recommend', 'breathable']",
+          "expected_impact": "+15%"
+        },
+        {
+          "headline": "Breathable — Premium comfort at great price",
+          "description": "Doctors Recommend Breathable Cotton • Free returns",
+          "cta": "Upgrade Today",
+          "rationale": "Tone=Value; anchored to keywords ['doctors', 'recommend', 'breathable']",
+          "expected_impact": "+9%"
+        },
+        {
+          "headline": "Cotton — Fix your fit today",
+          "description": "Doctors Recommend Breathable Cotton • Free returns",
+          "cta": "Fix My Fit",
+          "rationale": "Tone=Problem→Solution; anchored to keywords ['doctors', 'recommend', 'breathable']",
+          "expected_impact": "+18%"
+        },
+        {
+          "headline": "Meet — Loved by thousands",
+          "description": "Doctors Recommend Breathable Cotton • Free returns",
+          "cta": "See Why",
+          "rationale": "Tone=SocialProof; anchored to keywords ['doctors', 'recommend', 'breathable']",
+          "expected_impact": "+12%"
+        }
+      ],
+      "ab_test_plan": {
+        "metric": "CTR",
+        "min_sample_per_variant": 12908,
+        "duration_days": 7
+      }
+    },
+    {
+      "campaign": "Women S Mmer Invisible",
+      "baseline_ctr": 0.008492589422253855,
+      "keywords": [
+        "summer",
+        "ready",
+        "essentials",
+        "sweat",
+        "wicking",
+        "women"
+      ],
+      "variants": [
+        {
+          "headline": "Summer — All-day comfort",
+          "description": "Summer Ready Essentials Sweat • Free returns",
+          "cta": "Experience Comfort",
+          "rationale": "Tone=Emotional; anchored to keywords ['summer', 'ready', 'essentials']",
+          "expected_impact": "+10%"
+        },
+        {
+          "headline": "Ready — Limited time — restock",
+          "description": "Summer Ready Essentials Sweat • Free returns",
+          "cta": "Shop Now",
+          "rationale": "Tone=Urgency; anchored to keywords ['summer', 'ready', 'essentials']",
+          "expected_impact": "+15%"
+        },
+        {
+          "headline": "Essentials — Premium comfort at great price",
+          "description": "Summer Ready Essentials Sweat • Free returns",
+          "cta": "Upgrade Today",
+          "rationale": "Tone=Value; anchored to keywords ['summer', 'ready', 'essentials']",
+          "expected_impact": "+9%"
+        },
+        {
+          "headline": "Sweat — Fix your fit today",
+          "description": "Summer Ready Essentials Sweat • Free returns",
+          "cta": "Fix My Fit",
+          "rationale": "Tone=Problem→Solution; anchored to keywords ['summer', 'ready', 'essentials']",
+          "expected_impact": "+18%"
+        },
+        {
+          "headline": "Wicking — Loved by thousands",
+          "description": "Summer Ready Essentials Sweat • Free returns",
+          "cta": "See Why",
+          "rationale": "Tone=SocialProof; anchored to keywords ['summer', 'ready', 'essentials']",
+          "expected_impact": "+12%"
+        }
+      ],
+      "ab_test_plan": {
+        "metric": "CTR",
+        "min_sample_per_variant": 5199,
+        "duration_days": 7
+      }
+    },
+    {
+      "campaign": "Women Seamless Everyday",
+      "baseline_ctr": 0.007850964364195643,
+      "keywords": [
+        "women",
+        "bras",
+        "boyshorts",
+        "soft",
+        "wire",
+        "free"
+      ],
+      "variants": [
+        {
+          "headline": "Women — All-day comfort",
+          "description": "Women Bras Boyshorts Soft • Free returns",
+          "cta": "Experience Comfort",
+          "rationale": "Tone=Emotional; anchored to keywords ['women', 'bras', 'boyshorts']",
+          "expected_impact": "+10%"
+        },
+        {
+          "headline": "Bras — Limited time — restock",
+          "description": "Women Bras Boyshorts Soft • Free returns",
+          "cta": "Shop Now",
+          "rationale": "Tone=Urgency; anchored to keywords ['women', 'bras', 'boyshorts']",
+          "expected_impact": "+15%"
+        },
+        {
+          "headline": "Boyshorts — Premium comfort at great price",
+          "description": "Women Bras Boyshorts Soft • Free returns",
+          "cta": "Upgrade Today",
+          "rationale": "Tone=Value; anchored to keywords ['women', 'bras', 'boyshorts']",
+          "expected_impact": "+9%"
+        },
+        {
+          "headline": "Soft — Fix your fit today",
+          "description": "Women Bras Boyshorts Soft • Free returns",
+          "cta": "Fix My Fit",
+          "rationale": "Tone=Problem→Solution; anchored to keywords ['women', 'bras', 'boyshorts']",
+          "expected_impact": "+18%"
+        },
+        {
+          "headline": "Wire — Loved by thousands",
+          "description": "Women Bras Boyshorts Soft • Free returns",
+          "cta": "See Why",
+          "rationale": "Tone=SocialProof; anchored to keywords ['women', 'bras', 'boyshorts']",
+          "expected_impact": "+12%"
+        }
+      ],
+      "ab_test_plan": {
+        "metric": "CTR",
+        "min_sample_per_variant": 1844604,
+        "duration_days": 7
+      }
+    },
+    {
+      "campaign": "Women Seamless Everydy",
+      "baseline_ctr": 0.005261022684114215,
+      "keywords": [
+        "doctors",
+        "recommend",
+        "breathable",
+        "organic",
+        "cotton",
+        "meet"
+      ],
+      "variants": [
+        {
+          "headline": "Doctors — All-day comfort",
+          "description": "Doctors Recommend Breathable Organic • Free returns",
+          "cta": "Experience Comfort",
+          "rationale": "Tone=Emotional; anchored to keywords ['doctors', 'recommend', 'breathable']",
+          "expected_impact": "+10%"
+        },
+        {
+          "headline": "Recommend — Limited time — restock",
+          "description": "Doctors Recommend Breathable Organic • Free returns",
+          "cta": "Shop Now",
+          "rationale": "Tone=Urgency; anchored to keywords ['doctors', 'recommend', 'breathable']",
+          "expected_impact": "+15%"
+        },
+        {
+          "headline": "Breathable — Premium comfort at great price",
+          "description": "Doctors Recommend Breathable Organic • Free returns",
+          "cta": "Upgrade Today",
+          "rationale": "Tone=Value; anchored to keywords ['doctors', 'recommend', 'breathable']",
+          "expected_impact": "+9%"
+        },
+        {
+          "headline": "Organic — Fix your fit today",
+          "description": "Doctors Recommend Breathable Organic • Free returns",
+          "cta": "Fix My Fit",
+          "rationale": "Tone=Problem→Solution; anchored to keywords ['doctors', 'recommend', 'breathable']",
+          "expected_impact": "+18%"
+        },
+        {
+          "headline": "Cotton — Loved by thousands",
+          "description": "Doctors Recommend Breathable Organic • Free returns",
+          "cta": "See Why",
+          "rationale": "Tone=SocialProof; anchored to keywords ['doctors', 'recommend', 'breathable']",
+          "expected_impact": "+12%"
+        }
+      ],
+      "ab_test_plan": {
+        "metric": "CTR",
+        "min_sample_per_variant": 23171,
+        "duration_days": 7
+      }
+    },
+    {
+      "campaign": "Women Studio S Orts",
+      "baseline_ctr": 0.006554518146852243,
+      "keywords": [
+        "invisible",
+        "under",
+        "tees",
+        "seamless",
+        "women",
+        "panties"
+      ],
+      "variants": [
+        {
+          "headline": "Invisible — All-day comfort",
+          "description": "Invisible Under Tees Seamless • Free returns",
+          "cta": "Experience Comfort",
+          "rationale": "Tone=Emotional; anchored to keywords ['invisible', 'under', 'tees']",
+          "expected_impact": "+10%"
+        },
+        {
+          "headline": "Under — Limited time — restock",
+          "description": "Invisible Under Tees Seamless • Free returns",
+          "cta": "Shop Now",
+          "rationale": "Tone=Urgency; anchored to keywords ['invisible', 'under', 'tees']",
+          "expected_impact": "+15%"
+        },
+        {
+          "headline": "Tees — Premium comfort at great price",
+          "description": "Invisible Under Tees Seamless • Free returns",
+          "cta": "Upgrade Today",
+          "rationale": "Tone=Value; anchored to keywords ['invisible', 'under', 'tees']",
+          "expected_impact": "+9%"
+        },
+        {
+          "headline": "Seamless — Fix your fit today",
+          "description": "Invisible Under Tees Seamless • Free returns",
+          "cta": "Fix My Fit",
+          "rationale": "Tone=Problem→Solution; anchored to keywords ['invisible', 'under', 'tees']",
+          "expected_impact": "+18%"
+        },
+        {
+          "headline": "Women — Loved by thousands",
+          "description": "Invisible Under Tees Seamless • Free returns",
+          "cta": "See Why",
+          "rationale": "Tone=SocialProof; anchored to keywords ['invisible', 'under', 'tees']",
+          "expected_impact": "+12%"
+        }
+      ],
+      "ab_test_plan": {
+        "metric": "CTR",
+        "min_sample_per_variant": 13533,
+        "duration_days": 7
+      }
+    },
+    {
+      "campaign": "Women Studio Spo Ts",
+      "baseline_ctr": 0.00615381378664675,
+      "keywords": [
+        "women",
+        "panties",
+        "sports",
+        "bras",
+        "push",
+        "comfort"
+      ],
+      "variants": [
+        {
+          "headline": "Women — All-day comfort",
+          "description": "Women Panties Sports Bras • Free returns",
+          "cta": "Experience Comfort",
+          "rationale": "Tone=Emotional; anchored to keywords ['women', 'panties', 'sports']",
+          "expected_impact": "+10%"
+        },
+        {
+          "headline": "Panties — Limited time — restock",
+          "description": "Women Panties Sports Bras • Free returns",
+          "cta": "Shop Now",
+          "rationale": "Tone=Urgency; anchored to keywords ['women', 'panties', 'sports']",
+          "expected_impact": "+15%"
+        },
+        {
+          "headline": "Sports — Premium comfort at great price",
+          "description": "Women Panties Sports Bras • Free returns",
+          "cta": "Upgrade Today",
+          "rationale": "Tone=Value; anchored to keywords ['women', 'panties', 'sports']",
+          "expected_impact": "+9%"
+        },
+        {
+          "headline": "Bras — Fix your fit today",
+          "description": "Women Panties Sports Bras • Free returns",
+          "cta": "Fix My Fit",
+          "rationale": "Tone=Problem→Solution; anchored to keywords ['women', 'panties', 'sports']",
+          "expected_impact": "+18%"
+        },
+        {
+          "headline": "Push — Loved by thousands",
+          "description": "Women Panties Sports Bras • Free returns",
+          "cta": "See Why",
+          "rationale": "Tone=SocialProof; anchored to keywords ['women', 'panties', 'sports']",
+          "expected_impact": "+12%"
+        }
+      ],
+      "ab_test_plan": {
+        "metric": "CTR",
+        "min_sample_per_variant": 9507,
+        "duration_days": 7
+      }
+    }
+  ]
+}
