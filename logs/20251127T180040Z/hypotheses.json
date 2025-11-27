@@ -1,0 +1,429 @@
+{
+  "hypotheses": [
+    {
+      "id": "H-482b333b",
+      "campaign": "M N Bold Colors Drop",
+      "hypothesis": "creative_over_reliance",
+      "think": "recent_ctr=0.0076, prior_ctr=0.0000, pct_change=None",
+      "analyze": "rules-based checks over campaign + creative stats",
+      "evidence": {
+        "prior_ctr": 0.0,
+        "recent_ctr": 0.007626175852966539,
+        "pct_change_ctr": null,
+        "top_creatives_sample": [
+          {
+            "creative_message": "Seamless confidence for every day — new men trunks.",
+            "impressions": 303822,
+            "clicks": 2317.0,
+            "ctr_mean": 0.007626175852966539,
+            "spend": 929.05,
+            "revenue": 656.44
+          }
+        ]
+      },
+      "confidence": 0.5
+    },
+    {
+      "id": "H-9ae36953",
+      "campaign": "Men Bol Colors Drop",
+      "hypothesis": "creative_over_reliance",
+      "think": "recent_ctr=0.0071, prior_ctr=0.0000, pct_change=None",
+      "analyze": "rules-based checks over campaign + creative stats",
+      "evidence": {
+        "prior_ctr": 0.0,
+        "recent_ctr": 0.007057433649456638,
+        "pct_change_ctr": null,
+        "top_creatives_sample": [
+          {
+            "creative_message": "No ride‑up guarantee — best‑selling men briefs back in stock.",
+            "impressions": 294602,
+            "clicks": 2826.0,
+            "ctr_mean": 0.009592602901541741,
+            "spend": 486.31,
+            "revenue": 691.14
+          },
+          {
+            "creative_message": "All‑day comfort, zero pinch — try our men boxers!",
+            "impressions": 122505,
+            "clicks": 554.0,
+            "ctr_mean": 0.004522264397371536,
+            "spend": 388.09,
+            "revenue": 215.12
+          }
+        ]
+      },
+      "confidence": 0.5
+    },
+    {
+      "id": "H-767f1a05",
+      "campaign": "Men Bold Col Rs Drop",
+      "hypothesis": "creative_over_reliance",
+      "think": "recent_ctr=0.0069, prior_ctr=0.0000, pct_change=None",
+      "analyze": "rules-based checks over campaign + creative stats",
+      "evidence": {
+        "prior_ctr": 0.0,
+        "recent_ctr": 0.00688723846780772,
+        "pct_change_ctr": null,
+        "top_creatives_sample": [
+          {
+            "creative_message": "Breathable microfiber that moves with you — limited offer on men boxers.",
+            "impressions": 367632,
+            "clicks": 3085.0,
+            "ctr_mean": 0.008391543717630675,
+            "spend": 58.25,
+            "revenue": 931.43
+          },
+          {
+            "creative_message": "Summer‑ready essentials — sweat‑wicking men boxers.",
+            "impressions": 166452,
+            "clicks": 896.0,
+            "ctr_mean": 0.005382933217984764,
+            "spend": 656.16,
+            "revenue": 181.87
+          }
+        ]
+      },
+      "confidence": 0.5
+    },
+    {
+      "id": "H-9221daf5",
+      "campaign": "Men Comfortmax Lau Ch",
+      "hypothesis": "creative_drop_detected",
+      "think": "recent_ctr=0.0085, prior_ctr=0.0191, pct_change=-55.617902457558486",
+      "analyze": "rules-based checks over campaign + creative stats",
+      "evidence": {
+        "prior_ctr": 0.01909963582320663,
+        "recent_ctr": 0.00847681900130667,
+        "pct_change_ctr": -55.617902457558486,
+        "top_creatives_sample": [
+          {
+            "creative_message": "Confidence starts inside — elevate with men inner vests.",
+            "impressions": 368092,
+            "clicks": 8592.0,
+            "ctr_mean": 0.023341990589309195,
+            "spend": 165.12,
+            "revenue": 3733.47
+          },
+          {
+            "creative_message": "Ultra‑soft waistband, no marks — premium men briefs.",
+            "impressions": 181931,
+            "clicks": 2703.0,
+            "ctr_mean": 0.014857281057104066,
+            "spend": 272.12,
+            "revenue": 1928.85
+          },
+          {
+            "creative_message": "Wire‑free ease, cloud‑soft cups — men inner vests that fits right.",
+            "impressions": 120918,
+            "clicks": 1025.0,
+            "ctr_mean": 0.00847681900130667,
+            "spend": 371.67,
+            "revenue": 393.76
+          }
+        ]
+      },
+      "confidence": 0.8999999999999999
+    },
+    {
+      "id": "H-08bd561c",
+      "campaign": "Men Premiu Modal",
+      "hypothesis": "creative_over_reliance",
+      "think": "recent_ctr=0.0000, prior_ctr=0.0000, pct_change=None",
+      "analyze": "rules-based checks over campaign + creative stats",
+      "evidence": {
+        "prior_ctr": 0.0,
+        "recent_ctr": 0.0,
+        "pct_change_ctr": null,
+        "top_creatives_sample": [
+          {
+            "creative_message": "Hot & comfy: men trunks now 20% off — feel the difference.",
+            "impressions": 222084,
+            "clicks": 0.0,
+            "ctr_mean": NaN,
+            "spend": 499.5,
+            "revenue": 2013.94
+          }
+        ]
+      },
+      "confidence": 0.5
+    },
+    {
+      "id": "H-5d9a3431",
+      "campaign": "Men Premium Mod L",
+      "hypothesis": "creative_drop_detected or creative_over_reliance",
+      "think": "recent_ctr=0.0057, prior_ctr=0.0101, pct_change=-43.28841756029115",
+      "analyze": "rules-based checks over campaign + creative stats",
+      "evidence": {
+        "prior_ctr": 0.0100608862696578,
+        "recent_ctr": 0.005705687810982332,
+        "pct_change_ctr": -43.28841756029115,
+        "top_creatives_sample": [
+          {
+            "creative_message": "Wire‑free ease, cloud‑soft cups — men trunks that fits right.",
+            "impressions": 122852,
+            "clicks": 1236.0,
+            "ctr_mean": 0.0100608862696578,
+            "spend": 486.73,
+            "revenue": 1321.41
+          },
+          {
+            "creative_message": "3‑pack deal ends tonight — upgrade your men drawer with boxers.",
+            "impressions": 67126,
+            "clicks": 383.0,
+            "ctr_mean": 0.005705687810982332,
+            "spend": 668.65,
+            "revenue": 226.24
+          }
+        ]
+      },
+      "confidence": 0.8999999999999999
+    },
+    {
+      "id": "H-a1b0003e",
+      "campaign": "Men Premium Odal",
+      "hypothesis": "creative_drop_detected or creative_over_reliance",
+      "think": "recent_ctr=0.0066, prior_ctr=0.0131, pct_change=-50.07046980578702",
+      "analyze": "rules-based checks over campaign + creative stats",
+      "evidence": {
+        "prior_ctr": 0.013125101658542727,
+        "recent_ctr": 0.00655330159562324,
+        "pct_change_ctr": -50.07046980578702,
+        "top_creatives_sample": [
+          {
+            "creative_message": "Invisible under tees — seamless men inner vests.",
+            "impressions": 381178,
+            "clicks": 5003.0,
+            "ctr_mean": 0.013125101658542727,
+            "spend": 69.39,
+            "revenue": 6198.46
+          },
+          {
+            "creative_message": "Breathable microfiber that moves with you — limited offer on men trunks.",
+            "impressions": 118261,
+            "clicks": 775.0,
+            "ctr_mean": 0.00655330159562324,
+            "spend": 542.42,
+            "revenue": 861.25
+          }
+        ]
+      },
+      "confidence": 0.8999999999999999
+    },
+    {
+      "id": "H-3430c402",
+      "campaign": "W Men Summer Invisible",
+      "hypothesis": "creative_over_reliance",
+      "think": "recent_ctr=0.0083, prior_ctr=0.0000, pct_change=None",
+      "analyze": "rules-based checks over campaign + creative stats",
+      "evidence": {
+        "prior_ctr": 0.0,
+        "recent_ctr": 0.008323810225974122,
+        "pct_change_ctr": null,
+        "top_creatives_sample": [
+          {
+            "creative_message": "No ride‑up guarantee — best‑selling women bras back in stock.",
+            "impressions": 271270,
+            "clicks": 2258.0,
+            "ctr_mean": 0.008323810225974122,
+            "spend": 718.49,
+            "revenue": 764.82
+          }
+        ]
+      },
+      "confidence": 0.5
+    },
+    {
+      "id": "H-c6c1287e",
+      "campaign": "Woen Cotton Classics",
+      "hypothesis": "creative_over_reliance",
+      "think": "recent_ctr=0.0054, prior_ctr=0.0000, pct_change=None",
+      "analyze": "rules-based checks over campaign + creative stats",
+      "evidence": {
+        "prior_ctr": 0.0,
+        "recent_ctr": 0.005438850577767148,
+        "pct_change_ctr": null,
+        "top_creatives_sample": [
+          {
+            "creative_message": "Breathable microfiber that moves with you — limited offer on women sports bras.",
+            "impressions": 225783,
+            "clicks": 1228.0,
+            "ctr_mean": 0.005438850577767148,
+            "spend": 654.14,
+            "revenue": 1749.16
+          }
+        ]
+      },
+      "confidence": 0.5
+    },
+    {
+      "id": "H-fd04de86",
+      "campaign": "Women Fit & Li T",
+      "hypothesis": "creative_over_reliance",
+      "think": "recent_ctr=0.0078, prior_ctr=0.0000, pct_change=None",
+      "analyze": "rules-based checks over campaign + creative stats",
+      "evidence": {
+        "prior_ctr": 0.0,
+        "recent_ctr": 0.007790195432799396,
+        "pct_change_ctr": null,
+        "top_creatives_sample": [
+          {
+            "creative_message": "Doctors recommend breathable cotton — meet our women boyshorts.",
+            "impressions": 258145,
+            "clicks": 2011.0,
+            "ctr_mean": 0.007790195432799396,
+            "spend": 0.0,
+            "revenue": 788.83
+          }
+        ]
+      },
+      "confidence": 0.5
+    },
+    {
+      "id": "H-903634ff",
+      "campaign": "Women S Mmer Invisible",
+      "hypothesis": "creative_over_reliance",
+      "think": "recent_ctr=0.0085, prior_ctr=0.0000, pct_change=None",
+      "analyze": "rules-based checks over campaign + creative stats",
+      "evidence": {
+        "prior_ctr": 0.0,
+        "recent_ctr": 0.008492589422253855,
+        "pct_change_ctr": null,
+        "top_creatives_sample": [
+          {
+            "creative_message": "Summer‑ready essentials — sweat‑wicking women panties.",
+            "impressions": 103973,
+            "clicks": 883.0,
+            "ctr_mean": 0.008492589422253855,
+            "spend": 712.73,
+            "revenue": 944.89
+          }
+        ]
+      },
+      "confidence": 0.5
+    },
+    {
+      "id": "H-6c3f16fe",
+      "campaign": "Women Seamless Everyday",
+      "hypothesis": "creative_underperformance",
+      "think": "recent_ctr=0.0079, prior_ctr=0.0084, pct_change=-6.899096211475653",
+      "analyze": "rules-based checks over campaign + creative stats",
+      "evidence": {
+        "prior_ctr": 0.008432747744349347,
+        "recent_ctr": 0.007850964364195643,
+        "pct_change_ctr": -6.899096211475653,
+        "top_creatives_sample": [
+          {
+            "creative_message": "Ultra‑soft waistband, no marks — premium women boyshorts.",
+            "impressions": 4065185,
+            "clicks": 34772.0,
+            "ctr_mean": 0.008626818776403328,
+            "spend": 6233.34,
+            "revenue": 41197.770000000004
+          },
+          {
+            "creative_message": "Ultra‑soft waistband, no marks — premium women bras.",
+            "impressions": 3716207,
+            "clicks": 30900.0,
+            "ctr_mean": 0.008649356101834682,
+            "spend": 4325.27,
+            "revenue": 39167.99
+          },
+          {
+            "creative_message": "Cooling mesh panels for workouts — women boyshorts you’ll actually love.",
+            "impressions": 2911293,
+            "clicks": 24693.0,
+            "ctr_mean": 0.008443907367403624,
+            "spend": 5187.41,
+            "revenue": 28695.18
+          }
+        ]
+      },
+      "confidence": 0.6689909621147565
+    },
+    {
+      "id": "H-4d6d09a4",
+      "campaign": "Women Seamless Everydy",
+      "hypothesis": "creative_over_reliance",
+      "think": "recent_ctr=0.0053, prior_ctr=0.0000, pct_change=None",
+      "analyze": "rules-based checks over campaign + creative stats",
+      "evidence": {
+        "prior_ctr": 0.0,
+        "recent_ctr": 0.005261022684114215,
+        "pct_change_ctr": null,
+        "top_creatives_sample": [
+          {
+            "creative_message": "Doctors recommend breathable organic cotton — meet our women wire‑free bras.",
+            "impressions": 463408,
+            "clicks": 2438.0,
+            "ctr_mean": 0.005261022684114215,
+            "spend": 153.97,
+            "revenue": 2143.07
+          }
+        ]
+      },
+      "confidence": 0.5
+    },
+    {
+      "id": "H-4638f71d",
+      "campaign": "Women Studio S Orts",
+      "hypothesis": "creative_over_reliance",
+      "think": "recent_ctr=0.0066, prior_ctr=0.0000, pct_change=None",
+      "analyze": "rules-based checks over campaign + creative stats",
+      "evidence": {
+        "prior_ctr": 0.0,
+        "recent_ctr": 0.006554518146852243,
+        "pct_change_ctr": null,
+        "top_creatives_sample": [
+          {
+            "creative_message": "Invisible under tees — seamless women panties.",
+            "impressions": 270653,
+            "clicks": 1774.0,
+            "ctr_mean": 0.006554518146852243,
+            "spend": 926.34,
+            "revenue": 2420.18
+          }
+        ]
+      },
+      "confidence": 0.5
+    },
+    {
+      "id": "H-493257bb",
+      "campaign": "Women Studio Spo Ts",
+      "hypothesis": "creative_drop_detected",
+      "think": "recent_ctr=0.0062, prior_ctr=0.0095, pct_change=-34.96028028592261",
+      "analyze": "rules-based checks over campaign + creative stats",
+      "evidence": {
+        "prior_ctr": 0.009461624087095812,
+        "recent_ctr": 0.00615381378664675,
+        "pct_change_ctr": -34.96028028592261,
+        "top_creatives_sample": [
+          {
+            "creative_message": "Push comfort, not wires — everyday women panties.",
+            "impressions": 409919,
+            "clicks": 5621.0,
+            "ctr_mean": 0.013712465145553146,
+            "spend": 241.28,
+            "revenue": 3860.86
+          },
+          {
+            "creative_message": "Invisible under tees — seamless women sports bras.",
+            "impressions": 268566,
+            "clicks": 0.0,
+            "ctr_mean": NaN,
+            "spend": 135.29,
+            "revenue": 2593.64
+          },
+          {
+            "creative_message": "Cooling mesh panels for workouts — women panties you’ll actually love.",
+            "impressions": 220998,
+            "clicks": 2091.0,
+            "ctr_mean": 0.009461624087095812,
+            "spend": 904.28,
+            "revenue": 3181.01
+          }
+        ]
+      },
+      "confidence": 0.8999999999999999
+    }
+  ]
+}

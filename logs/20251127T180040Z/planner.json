@@ -1,0 +1,20 @@
+{
+  "query": "Analyze ROAS Drop",
+  "created_at": "2025-11-27T18:00:40.432198",
+  "windows": {
+    "recent_days": 30,
+    "prior_days": 30,
+    "short_days": 7
+  },
+  "thresholds": {
+    "low_ctr_percentile": 15,
+    "min_impressions": 500,
+    "confidence_min": 0.6
+  },
+  "steps": [
+    "data_summary",
+    "insight_generation",
+    "evaluation",
+    "creative_generation"
+  ]
+}
