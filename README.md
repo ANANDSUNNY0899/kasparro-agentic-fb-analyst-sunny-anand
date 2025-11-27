@@ -4,9 +4,7 @@
  #  Demo Video  
    * Watch the full demo video here: [Click to Watch](https://drive.google.com/file/d/1vyIdfw2YAV3kk6LmH_-_vaPwa4T0-4-Q/view?usp=sharing)
    
-
- # Overview
-
+# Overview
 This project implements a multi-agent autonomous analytics system that diagnoses Facebook Ads ROAS fluctuations, identifies drivers behind performance changes, and generates data-grounded creative recommendations.
 
 The architecture follows Kasparro’s required 5-agent pipeline:
