@@ -72,11 +72,11 @@ Women Summer Invisible
 
 * Why this matters
 
-✔ All noisy variants now collapse into a single bucket
-✔ Insights are no longer fragmented
-✔ CTR, spend, and ROAS calculations are now accurate
-✔ Evaluator Agent gives correct judgments
-✔ Report quality massively improved
+  * All noisy variants now collapse into a single bucket
+  * Insights are no longer fragmented
+  * CTR, spend, and ROAS calculations are now accurate
+  * Evaluator Agent gives correct judgments
+  * Report quality massively improved
 
 1.2 Synonym Generation Script Added (generate_synonyms.py)
 
